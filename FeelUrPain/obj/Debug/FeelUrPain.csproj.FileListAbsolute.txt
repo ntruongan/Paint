@@ -1,0 +1,38 @@
+C:\Users\DELL\source\repos\FeelUrPain\FeelUrPain\bin\Debug\FeelUrPain.exe.config
+C:\Users\DELL\source\repos\FeelUrPain\FeelUrPain\bin\Debug\FeelUrPain.exe
+C:\Users\DELL\source\repos\FeelUrPain\FeelUrPain\bin\Debug\FeelUrPain.pdb
+C:\Users\DELL\source\repos\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.Form1.resources
+C:\Users\DELL\source\repos\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.Properties.Resources.resources
+C:\Users\DELL\source\repos\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.exe
+C:\Users\DELL\source\repos\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.pdb
+C:\Users\DELL\Downloads\Compressed\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\bin\Debug\FeelUrPain.exe.config
+C:\Users\DELL\Downloads\Compressed\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\bin\Debug\FeelUrPain.exe
+C:\Users\DELL\Downloads\Compressed\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\bin\Debug\FeelUrPain.pdb
+C:\Users\DELL\Downloads\Compressed\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Compressed\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.Form1.resources
+C:\Users\DELL\Downloads\Compressed\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.Properties.Resources.resources
+C:\Users\DELL\Downloads\Compressed\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Compressed\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.exe
+C:\Users\DELL\Downloads\Compressed\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.pdb
+C:\Users\DELL\Downloads\Documents\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\bin\Debug\FeelUrPain.exe.config
+C:\Users\DELL\Downloads\Documents\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\bin\Debug\FeelUrPain.exe
+C:\Users\DELL\Downloads\Documents\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\bin\Debug\FeelUrPain.pdb
+C:\Users\DELL\Downloads\Documents\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Documents\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.Form1.resources
+C:\Users\DELL\Downloads\Documents\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.Properties.Resources.resources
+C:\Users\DELL\Downloads\Documents\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Documents\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Documents\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.exe
+C:\Users\DELL\Downloads\Documents\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.pdb
+D:\IT\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\bin\Debug\FeelUrPain.exe.config
+D:\IT\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\bin\Debug\FeelUrPain.exe
+D:\IT\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\bin\Debug\FeelUrPain.pdb
+D:\IT\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.csprojAssemblyReference.cache
+D:\IT\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.Form1.resources
+D:\IT\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.Properties.Resources.resources
+D:\IT\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.csproj.GenerateResource.cache
+D:\IT\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.csproj.CoreCompileInputs.cache
+D:\IT\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.exe
+D:\IT\Nam 2\HK2\Win\18110246_midterm_Project_Win\18110246_midterm_Project_Win\FeelUrPain\FeelUrPain\obj\Debug\FeelUrPain.pdb
